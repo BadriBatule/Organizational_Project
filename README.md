@@ -1,58 +1,73 @@
-🏢 Canon U.S.A.: Clarifying Direction for the Big Picture
-This project offers a strategic organizational analysis of Canon U.S.A., focused on diagnosing leadership and communication gaps within the company’s Marketing Department. Conducted as part of the Organizational Behavior and Leadership Skills for Strategic Advantage (MGT 207) course at Hofstra University, this study applies proven OB frameworks to develop actionable recommendations. The core objective is to enhance departmental alignment, foster innovation, and strengthen cross-functional collaboration through leadership transformation.
+# 🏢 Canon U.S.A. Organizational Behavior Analysis
 
-📊 Phase 1: Organizational Assessment and Leadership Evaluation
-Our project began with a structured analysis of Canon U.S.A.'s leadership structure and internal team dynamics:
+This repository presents a strategic organizational behavior project analyzing **Canon U.S.A.**, with a focus on enhancing leadership effectiveness, communication clarity, and team cohesion within its Marketing Department. Conducted as part of *MGT 207 – Organizational Behavior and Leadership Skills for Strategic Advantage* at Hofstra University, this study applies key OB frameworks to develop practical, theory-backed recommendations for organizational improvement.
 
-Leadership Structure Review
+---
 
-Assessed existing executive roles and leadership succession.
+## 📊 Phase 1: Organizational Assessment
 
-Identified the absence of a Chief Marketing Officer (CMO) as a critical gap.
+1. **Company Overview**  
+   - Canon U.S.A. is a global leader in imaging and optical technologies, headquartered in Melville, NY, with over 12,000 employees.
 
-Employee Experience Analysis
+2. **Leadership Structure Review**  
+   - Identified a lack of marketing leadership at the C-suite level.
+   - Noted transitions in key roles and lack of alignment on goals.
 
-Interviews with internal stakeholders revealed confusion around strategic direction and project prioritization.
+3. **Employee Insights**  
+   - Internal interviews revealed the need for clearer departmental direction.
+   - Highlighted disjointed communication, unclear priorities, and lack of ownership.
 
-Highlighted the need for clear, elevating goals and visionary leadership.
+4. **Organizational Gaps**  
+   - Missing team characteristics: shared vision, interdepartmental coordination, and strong motivational leadership.
 
-Team Effectiveness Evaluation
+---
 
-Applied OB frameworks to diagnose missing elements such as coordination, collaboration, and autonomy.
+## ✅ Phase 2: OB-Based Solutions and Recommendations
 
-Found lack of interdepartmental synergy and misalignment in marketing initiatives.
+### 🔹 Leadership Strategy
+- **Propose a CMO Role**: Centralized strategic leadership to align marketing with business goals.
+- **Path-Goal Theory Application**: To guide team motivation and clarity using directive and transformational styles.
 
-📌 Phase 2: Organizational Behavior Solutions and Strategic Recommendations
-Based on our findings, the second phase focused on strategic recommendations grounded in OB theory:
+### 🔹 Communication Strategy
+- **Media Richness Theory**: Use high-bandwidth channels for strategic initiatives and face-to-face collaboration for team alignment.
+- **Unified Communications & Collaboration (UC&C)**: Streamline internal messaging and reduce siloed decision-making.
 
-Leadership Redesign
+### 🔹 Motivation and Team Empowerment
+- **Self-Determination Theory**: Empower employees through autonomy, purpose, and involvement in shaping initiatives.
+- **Servant Leadership Approach**: Encourage leadership that supports, listens, and collaborates with employees.
 
-Proposed the implementation of a CMO position to unify marketing strategy and elevate departmental performance.
+---
 
-Motivation and Autonomy
+## 🚀 Strategic Impact
 
-Applied Self-Determination Theory to encourage autonomy and participation among team members.
+- Introduces **clear leadership** to drive innovation and marketing alignment.
+- Strengthens **interdepartmental communication and collaboration**.
+- Enhances **employee motivation and performance**.
+- Establishes a **sustainable foundation** for Canon’s future growth and competitiveness.
 
-Recommended collaborative decision-making to boost engagement.
+---
 
-Communication Transformation
+## 📂 Contents
 
-Introduced Unified Communications & Collaboration (UC&C) tools to streamline internal messaging.
+- 📄 Presentation Slides  
+- 🧠 Employee Interview Summaries  
+- 🧰 OB Theory Applications  
+- 📈 Strategic Recommendations  
+- 📚 References and Citations
 
-Leveraged Media Richness Theory to improve team feedback and idea flow.
+---
 
-Leadership Theories Applied
+## 👥 Project Contributors
 
-Integrated Path-Goal Theory, Transformational Leadership, and Servant Leadership styles.
+- Badrinath Batule  
+- Ken McLean  
+- Anwar Robinson  
+- John Roller  
+- Gabrielle Scelsa  
 
-Emphasized leadership that inspires, supports, and coordinates across functions.
+Instructor: Dr. Lauren C. Hindman  
+Course: MGT 207 — Spring 2024, Hofstra University
 
-🚀 Strategic Impact
-Restores strategic alignment between Marketing and corporate objectives
+---
 
-Fosters a culture of innovation, trust, and accountability
-
-Provides a succession plan to fill the leadership gap with long-term vision
-
-Enhances communication flow to support branding consistency and cross-functional collaboration
-
+**Canon U.S.A. — Clarifying Direction for the Big Picture.**
